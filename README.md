@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nicholasdevs.xyz](https://nicholasdevs.xyz)
 
-- 💬 Ask me about **Pawno, NodeJS, Python**
+- 💬 Ask me about **Pawno, C++, C#**
 
 - 📫 How to reach me **nichdevs@gmail.com**
 
